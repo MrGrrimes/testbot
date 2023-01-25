@@ -1,0 +1,920 @@
+{
+	"perks": [
+		{
+			"name": "Dwight Fairfield",
+			"perk_name": "Bond",
+			"it_name": "Legame"
+		},
+		{
+			"name": "Dwight Fairfield",
+			"perk_name": "Prove Thyself",
+			"it_name": "Mettiti alla Prova"
+		},
+		{
+			"name": "Dwight Fairfield",
+			"perk_name": "Leader",
+			"it_name": "Leader"
+		},
+		{
+			"name": "Meg Thomas",
+			"perk_name": "Quick & Quiet",
+			"it_name": "Veloce e Silenzioso"
+		},
+		{
+			"name": "Meg Thomas",
+			"perk_name": "Sprint Burst",
+			"it_name": "Scatto Improvviso"
+		},
+		{
+			"name": "Meg Thomas",
+			"perk_name": "Adrenaline",
+			"it_name": "Adrenalina"
+		},
+		{
+			"name": "Claudette Morel",
+			"perk_name": "Empathy",
+			"it_name": "Empatia"
+		},
+		{
+			"name": "Claudette Morel",
+			"perk_name": "Botany Knowledge",
+			"it_name": "Conoscenze Botaniche"
+		},
+		{
+			"name": "Claudette Morel",
+			"perk_name": "Self-Care",
+			"it_name": "Cura_di_Sé"
+		},
+		{
+			"name": "Jake Park",
+			"perk_name": "Iron Will",
+			"it_name": "Volontà di Ferro"
+		},
+		{
+			"name": "Jake Park",
+			"perk_name": "Calm Spirit",
+			"it_name": "Spirito Calmo"
+		},
+		{
+			"name": "Jake Park",
+			"perk_name": "Saboteur",
+			"it_name": "Sabotatore"
+		},
+		{
+			"name": "Nea Karlsson",
+			"perk_name": "Balanced Landing",
+			"it_name": "Atterraggio Bilanciato"
+		},
+		{
+			"name": "Nea Karlsson",
+			"perk_name": "Urban Evasion",
+			"it_name": "Evasione Urbana"
+		},
+		{
+			"name": "Nea Karlsson",
+			"perk_name": "Streetwise",
+			"it_name": "Saper Stare al Mondo"
+		},
+		{
+			"name": "Bill Overbeck",
+			"perk_name": "Left Behind",
+			"it_name": "Ultima Speranza"
+		},
+		{
+			"name": "Bill Overbeck",
+			"perk_name": "Borrowed Time",
+			"it_name": "Tempo Prezioso"
+		},
+
+		{
+			"name": "Bill Overbeck",
+			"perk_name": "Unbreakable",
+			"it_name": "Volontà d'Acciaio"
+		},
+		{
+			"name": "David King",
+			"perk_name": "We're Gonna Live Forever",
+			"it_name": "Vivremo per Sempre"
+		},
+		{
+			"name": "David King",
+			"perk_name": "Dead Hard",
+			"it_name": "Morto Stecchito"
+		},
+		{
+			"name": "David King",
+			"perk_name": "No Mither",
+			"it_name": "Nessuna Bega"
+		},
+		{
+			"name": "Laurie Strode",
+			"perk_name": "Sole Survivor",
+			"it_name": "Unico Sopravvissuto"
+		},
+		{
+			"name": "Laurie Strode",
+			"perk_name": "Object of Obsession",
+			"it_name": "Oggetto dell'Ossessione"
+		},
+		{
+			"name": "Laurie Strode",
+			"perk_name": "Decisive Strike",
+			"it_name": "Colpo Decisivo"
+		},
+		{
+			"name": "Ace Visconti",
+			"perk_name": "Open-Handed",
+			"it_name": "Carte Scoperte"
+		},
+		{
+			"name": "Ace Visconti",
+			"perk_name": "Up the Ante",
+			"it_name": "Alza la Posta"
+		},
+		{
+			"name": "Ace Visconti",
+			"perk_name": "Ace in the Hole",
+			"it_name": "Asso nella Manica"
+		},
+		{
+			"name": "Feng Min",
+			"perk_name": "Technician",
+			"it_name": "Tecnico"
+		},
+		{
+			"name": "Feng Min",
+			"perk_name": "Lithe",
+			"it_name": "Agilità"
+		},
+		{
+			"name": "Feng Min",
+			"perk_name": "Alert",
+			"it_name": "Allerta"
+		},
+		{
+			"name": "Quentin Smith",
+			"perk_name": "Wake Up!",
+			"it_name": "Sveglia!"
+		},
+		{
+			"name": "Quentin Smith",
+			"perk_name": "Pharmacy",
+			"it_name": "Farmacia"
+		},
+		{
+			"name": "Quentin Smith",
+			"perk_name": "Vigil",
+			"it_name": "Veglia"
+		},
+		{
+			"name": "Tapp",
+			"perk_name": "Tenacity",
+			"it_name": "Tenacia"
+		},
+		{
+			"name": "Tapp",
+			"perk_name": "Detective's Hunch",
+			"it_name": "Intuizione del Detective"
+		},
+		{
+			"name": "Tapp",
+			"perk_name": "Stake Out",
+			"it_name": "Sotto Controllo"
+		},
+		{
+			"name": "Kate Denson",
+			"perk_name": "Dance With Me",
+			"it_name": "Balla con Me"
+		},
+		{
+			"name": "Kate Denson",
+			"perk_name": "Windows of Oppurtunity",
+			"it_name": "Momenti Propizi"
+		},
+		{
+			"name": "Kate Denson",
+			"perk_name": "Boil Over",
+			"it_name": "Perdi le Staffe"
+		},
+		{
+			"name": "Adam Francis",
+			"perk_name": "Diversion",
+			"it_name": "Diversivo"
+		},
+		{
+			"name": "Adam Francis",
+			"perk_name": "Deliverance",
+			"it_name": "Liberazione"
+		},
+		{
+			"name": "Adam Francis",
+			"perk_name": "Autodidact",
+			"it_name": "Autoapprendimento"
+		},
+		{
+			"name": "Jeff Johansen",
+			"perk_name": "Breakdown",
+			"it_name": "Collasso"
+		},
+		{
+			"name": "Jeff Johansen",
+			"perk_name": "Aftercare",
+			"it_name": "Convalescenza"
+		},
+		{
+			"name": "Jeff Johansen",
+			"perk_name": "Distortion",
+			"it_name": "Stravolgimento"
+		},
+		{
+			"name": "Jane Romero",
+			"perk_name": "Solidarity",
+			"it_name": "Solidarietà"
+		},
+		{
+			"name": "Jane Romero",
+			"perk_name": "Poised",
+			"it_name": "Compostezza"
+		},
+		{
+			"name": "Jane Romero",
+			"perk_name": "Head On",
+			"it_name": "Frontale"
+		},
+		{
+			"name": "Ash Williams",
+			"perk_name": "Flip-Flop",
+			"it_name": "Ritorno"
+		},
+		{
+			"name": "Ash Williams",
+			"perk_name": "Buckle Up",
+			"it_name": "Allaccia le Cinture"
+		},
+		{
+			"name": "Ash Williams",
+			"perk_name": "Mettle of Man",
+			"it_name": "Il Coraggio dell'Uomo"
+		},
+		{
+			"name": "Yui Kimura",
+			"perk_name": "Lucky Break",
+			"it_name": "Colpo di Fortuna"
+		},
+		{
+			"name": "Yui Kimura",
+			"perk_name": "Any Means Necessary",
+			"it_name": "A Ogni Costo"
+		},
+		{
+			"name": "Yui Kimura",
+			"perk_name": "Breakout",
+			"it_name": "Evasione"
+		},
+		{
+			"name": "Zarina Kassir",
+			"perk_name": "Off the Record",
+			"it_name": "In Via Ufficiosa"
+		},
+		{
+			"name": "Zarina Kassir",
+			"perk_name": "Red Herring",
+			"it_name": "Depistaggio"
+		},
+		{
+			"name": "Zarina Kassir",
+			"perk_name": "For the People",
+			"it_name": "Per il Popolo"
+		},
+		{
+			"name": "Cheryl Mason",
+			"perk_name": "Soul Guard",
+			"it_name": "Guardia Spirituale"
+		},
+		{
+			"name": "Cheryl Mason",
+			"perk_name": "Blood Pact",
+			"it_name": "Patto di Sangue"
+		},
+		{
+			"name": "Cheryl Mason",
+			"perk_name": "Repressed Alliance",
+			"it_name": "Alleanza Repressa"
+		},
+		{
+			"name": "Felix Richter",
+			"perk_name": "Visionary",
+			"it_name": "Visionario"
+		},
+		{
+			"name": "Felix Richter",
+			"perk_name": "Desperate Measures",
+			"it_name": "Estremi Rimedi"
+		},
+		{
+			"name": "Felix Richter",
+			"perk_name": "Built to Last",
+			"it_name": "Costruito per Durare"
+		},
+		{
+			"name": "Élodie Rakoto",
+			"perk_name": "Appraisal",
+			"it_name": "Stima"
+		},
+		{
+			"name": "Élodie Rakoto",
+			"perk_name": "Deception",
+			"it_name": "Raggiro"
+		},
+		{
+			"name": "Élodie Rakoto",
+			"perk_name": "Power Struggle",
+			"it_name": "Lotta di Potere"
+		},
+		{
+			"name": "Yun-Jin Lee",
+			"perk_name": "Fast Track",
+			"it_name": "Impazienza"
+		},
+		{
+			"name": "Yun-Jin Lee",
+			"perk_name": "Smash Hit",
+			"it_name": "Hit di Successo"
+		},
+		{
+			"name": "Yun-Jin Lee",
+			"perk_name": "Self-Preservation",
+			"it_name": "Autoprotezione"
+		},
+		{
+			"name": "Jill Valentine",
+			"perk_name": "Counterforce",
+			"it_name": "Controforza"
+		},
+		{
+			"name": "Jill Valentine",
+			"perk_name": "Resurgence",
+			"it_name": "Reviviscenza"
+		},
+		{
+			"name": "Jill Valentine",
+			"perk_name": "Blast Mine",
+			"it_name": "Mina Esplosiva"
+		},
+		{
+			"name": "Leon Kennedy",
+			"perk_name": "Bite the Bullet",
+			"it_name": "Stringi i Denti"
+		},
+		{
+			"name": "Leon Kennedy",
+			"perk_name": "Flashbang",
+			"it_name": "Granata Stordente"
+		},
+		{
+			"name": "Leon Kennedy",
+			"perk_name": "Rookie Spirit",
+			"it_name": "Recluta"
+		},
+		{
+			"name": "Mikaela Reid",
+			"perk_name": "Clairvoyance",
+			"it_name": "Chiaroveggenza"
+		},
+		{
+			"name": "Mikaela Reid",
+			"perk_name": "Boon: Circle of Healing",
+			"it_name": "Manna: Cerchio della Cura"
+		},
+		{
+			"name": "Mikaela Reid",
+			"perk_name": "Boon: Shadow Step",
+			"it_name": "Manna: Passo nell'Ombra"
+		},
+		{
+			"name": "La Strega",
+			"perk_name": "Hex: The Third Seal",
+			"it_name": "Maledizione: Il Terzo Sigillo"
+		},
+		{
+			"name": "Lo Spettro",
+			"perk_name": "Shadowborn",
+			"it_name": "Nato dalle Tenebre"
+		},
+		{
+			"name": "La Cacciatrice",
+			"perk_name": "Hex: La Cacciatrice Lullaby",
+			"it_name": "Maledizione: La Ninna Nanna della Cacciatrice"
+		},
+		{
+			"name": "Il Maiale",
+			"perk_name": "Surveillance",
+			"it_name": "Sorveglianza"
+		},
+		{
+			"name": "L'Oni",
+			"perk_name": "Nemesis",
+			"it_name": "Nemesi"
+		},
+		{
+			"name": "Il Dottore",
+			"perk_name": "ML'Onitor & Abuse",
+			"it_name": "Sorveglianza e Sevizia"
+		},
+		{
+			"name": "Il Mandriano",
+			"perk_name": "Tinkerer",
+			"it_name": "Mastro Ferraio"
+		},
+		{
+			"name": "Lo Spettro",
+			"perk_name": "Predator",
+			"it_name": "Predatore"
+		},
+		{
+			"name": "Il Cacciatore",
+			"perk_name": "Brutal Strength",
+			"it_name": "Forza Brutale"
+		},
+		{
+			"name": "Il Mandriano",
+			"perk_name": "Enduring",
+			"it_name": "Resistente"
+		},
+		{
+			"name": "Il Mandriano",
+			"perk_name": "Lightborn",
+			"it_name": "Nato dalla Luce"
+		},
+		{
+			"name": "Il Cannibale",
+			"perk_name": "Franklin's Demise",
+			"it_name": "Caduta di Franklin"
+		},
+		{
+			"name": "Il Cacciatore",
+			"perk_name": "Unnerving Presence",
+			"it_name": "Presenza Inquietante"
+		},
+		{
+			"name": "L'Ombra",
+			"perk_name": "Play with Your Food",
+			"it_name": "Gioca con il Tuo Cibo"
+		},
+		{
+			"name": "La Strega",
+			"perk_name": "Hex: Devour Hope",
+			"it_name": "Maledizione: Divora Speranza"
+		},
+		{
+			"name": "Il Cannibale",
+			"perk_name": "Knock Out",
+			"it_name": "KO"
+		},
+		{
+			"name": "L'Araldo di Morte",
+			"perk_name": "Gearhead",
+			"it_name": "Meccanico"
+		},
+		{
+			"name": "L'Infermiera",
+			"perk_name": "A L'Infermiera's Calling",
+			"it_name": "Vocazione di un'Infermiera"
+		},
+		{
+			"name": "Il Maiale",
+			"perk_name": "Hangman's Trick",
+			"it_name": "Gioco dell'Impiccato"
+		},
+		{
+			"name": "Il Boia",
+			"perk_name": "Trail Of Torment",
+			"it_name": "Scia del Tormento"
+		},
+		{
+			"name": "Il Dottore",
+			"perk_name": "Overcharge",
+			"it_name": "Sovraccarico"
+		},
+		{
+			"name": "L'Incubo",
+			"perk_name": "Fire Up",
+			"it_name": "Fuoco e Fiamme"
+		},
+		{
+			"name": "Spirit",
+			"perk_name": "Spirit Fury",
+			"it_name": "Furia dello Spirito"
+		},
+		{
+			"name": "Spirit",
+			"perk_name": "Hex: Haunted Ground",
+			"it_name": "Maledizione: Terra Maledetta"
+		},
+		{
+			"name": "Spirit",
+			"perk_name": "Rancor",
+			"it_name": "Rancore"
+		},
+		{
+			"name": "Legion",
+			"perk_name": "Discordance",
+			"it_name": "Discordia"
+		},
+		{
+			"name": "Legion",
+			"perk_name": "Mad Grit",
+			"it_name": "Tenacia Furiosa"
+		},
+		{
+			"name": "Legion",
+			"perk_name": "Iron Maiden",
+			"it_name": "Vergine di Ferro"
+		},
+		{
+			"name": "La Piaga",
+			"perk_name": "Dragon's Grip",
+			"it_name": "Morsa del Drago"
+		},
+		{
+			"name": "Ghost Face",
+			"perk_name": "I'm All Ears",
+			"it_name": "Sono Tutt'Orecchi"
+		},
+		{
+			"name": "Il Cacciatore",
+			"perk_name": "Agitation",
+			"it_name": "Agitazione"
+		},
+		{
+			"name": "Lo Spettro",
+			"perk_name": "Bloodhound",
+			"it_name": "Segugio"
+		},
+		{
+			"name": "Il Dottore",
+			"perk_name": "Overwhelming Presence",
+			"it_name": "Presenza Sovrastante"
+		},
+		{
+			"name": "L'Incubo",
+			"perk_name": "Blood Warden",
+			"it_name": "Custode Sanguinario"
+		},
+		{
+			"name": "Il Maiale",
+			"perk_name": "Make Your Choice",
+			"it_name": "Fa' la tua Scelta"
+		},
+		{
+			"name": "La Malattia",
+			"perk_name": "Infectious Fright",
+			"it_name": "Terrore Contagioso"
+		},
+		{
+			"name": "L'Infermiera",
+			"perk_name": "Thanatophobia",
+			"it_name": "Tanatofobia"
+		},
+		{
+			"name": "La Cacciatrice",
+			"perk_name": "Territorial Imperative",
+			"it_name": "Dominio Territoriale"
+		},
+		{
+			"name": "L'Ombra",
+			"perk_name": "Save the Best for Last",
+			"it_name": "Conserva il Meglio per la Fine"
+		},
+		{
+			"name": "La Cacciatrice",
+			"perk_name": "Beast of Prey",
+			"it_name": "Animale da Preda"
+		},
+		{
+			"name": "Il Cannibale",
+			"perk_name": "Barbecue & Chilli",
+			"it_name": "Barbecue & Chili"
+		},
+		{
+			"name": "La Malattia",
+			"perk_name": "Corrupt Intervention",
+			"it_name": "Intervento Corrotto"
+		},
+		{
+			"name": "La Malattia",
+			"perk_name": "Dark Devotion",
+			"it_name": "Devozione Oscura"
+		},
+		{
+			"name": "L'Oni",
+			"perk_name": "Blood Echo",
+			"it_name": "Eco Sanguigna"
+		},
+		{
+			"name": "Il Boia",
+			"perk_name": "Forced Penance",
+			"it_name": "Penitenza Imposta"
+		},
+		{
+			"name": "Il Boia",
+			"perk_name": "Deathbound",
+			"it_name": "Morte Certa"
+		},
+		{
+			"name": "La Piaga",
+			"perk_name": "Hex: Undying",
+			"it_name": "Maledizione: Immortale"
+		},
+		{
+			"name": "L'Incubo",
+			"perk_name": "Remember Me",
+			"it_name": "Ricordati di Me"
+		},
+		{
+			"name": "L'Araldo di Morte",
+			"perk_name": "Hex: Retribution",
+			"it_name": "Maledizione: Castigo"
+		},
+		{
+			"name": "Il Clown",
+			"perk_name": "Coulrophobia",
+			"it_name": "Coulrofobia"
+		},
+		{
+			"name": "Ghost Face",
+			"perk_name": "Furtive Chase",
+			"it_name": "Inseguimento Furtivo"
+		},
+		{
+			"name": "Ghost Face",
+			"perk_name": "Thrilling Tremors",
+			"it_name": "Tremori Frementi"
+		},
+		{
+			"name": "L'Araldo di Morte",
+			"perk_name": "Dead Man's Switch",
+			"it_name": "Dispositivo dell'Uomo Morto"
+		},
+		{
+			"name": "La Piaga",
+			"perk_name": "Hex: Blood Favour",
+			"it_name": "Maledizione: Favore di Sangue"
+		},
+		{
+			"name": "L'Infermiera",
+			"perk_name": "Stridor",
+			"it_name": "Stridore"
+		},
+		{
+			"name": "L'Ombra",
+			"perk_name": "Dying Light",
+			"it_name": "Luce Morente"
+		},
+		{
+			"name": "La Strega",
+			"perk_name": "Hex: Ruin",
+			"it_name": "Maledizione: Rovina"
+		},
+		{
+			"name": "Il Clown",
+			"perk_name": "Pop Goes the Weasel",
+			"it_name": "Anghingò"
+		},
+		{
+			"name": "L'Oni",
+			"perk_name": "Zanshin Tactics",
+			"it_name": "Tattica Zanshin"
+		},
+		{
+			"name": "Il Clown",
+			"perk_name": "Bamboozle",
+			"it_name": "Inganno"
+		},
+		{
+			"name": "I Gemelli",
+			"perk_name": "Hoarder",
+			"it_name": "Incettatore"
+		},
+		{
+			"name": "I Gemelli",
+			"perk_name": "Oppression",
+			"it_name": "Oppressione"
+		},
+		{
+			"name": "I Gemelli",
+			"perk_name": "Coup de Grâce",
+			"it_name": "Colpo di Grazia"
+		},
+		{
+			"name": "L'Ingannatore",
+			"perk_name": "No Way Out",
+			"it_name": "Nessuna Via d'Uscita"
+		},
+		{
+			"name": "L'Ingannatore",
+			"perk_name": "Hex: Crowd Control",
+			"it_name": "Maledizione: Controllo delle Folle"
+		},
+		{
+			"name": "L'Ingannatore",
+			"perk_name": "Starstruck",
+			"it_name": "Fame di Fama"
+		},
+		{
+			"name": "Nemesis",
+			"perk_name": "Lethal Pursuer",
+			"it_name": "Inseguitore Letale"
+		},
+		{
+			"name": "Nemesis",
+			"perk_name": "Eruption",
+			"it_name": "Eruzione"
+		},
+		{
+			"name": "Nemesis",
+			"perk_name": "Hysteria",
+			"it_name": "Isteria"
+		},
+		{
+			"name": "Il Cenobita",
+			"perk_name": "Deadlock",
+			"it_name": "Impasse"
+		},
+		{
+			"name": "Il Cenobita",
+			"perk_name": "Hex: Plaything",
+			"it_name": "Maledizione: Giocattolo"
+		},
+		{
+			"name": "Il Cenobita",
+			"perk_name": "Scourge Hook: Gift of Pain",
+			"it_name": "Flagello Appuntito: Dono del Dolore"
+		},
+		{
+			"name": "L'Artista",
+			"perk_name": "Grim Embrace",
+			"it_name": "Abbraccio Lugubre"
+		},
+		{
+			"name": "L'Artista",
+			"perk_name": "Scourge Hook: Pain Resonance",
+			"it_name": "Flagello Appuntito: Eco di Dolore"
+		},
+		{
+			"name": "L'Artista",
+			"perk_name": "Hex: Pentimento",
+			"it_name": "Maledizione: Pentimento"
+		},
+		{
+			"name": "Jonah Vasquez",
+			"perk_name": "Overcome",
+			"it_name": "Risoluzione"
+		},
+		{
+			"name": "Jonah Vasquez",
+			"perk_name": "Corrective Action",
+			"it_name": "Azione Correttiva"
+		},
+		{
+			"name": "Jonah Vasquez",
+			"perk_name": "Boon: Exponential",
+			"it_name": "Manna: Esponenziale"
+		},
+		{
+			"name": "L'Onryō",
+			"perk_name": "Scourge Hook: Floods of Rage",
+			"it_name": "Flagello Appuntito: Ira Implacabile"
+		},
+		{
+			"name": "L'Onryō",
+			"perk_name": "Call of Brine",
+			"it_name": "Richiamo Salmastro"
+		},
+		{
+			"name": "L'Onryō",
+			"perk_name": "Merciless Storm",
+			"it_name": "Tempesta Impietosa"
+		},
+		{
+			"name": "Yoichi Asakawa",
+			"perk_name": "Parental Guidance",
+			"it_name": "Guida Paterna"
+		},
+		{
+			"name": "Yoichi Asakawa",
+			"perk_name": "Empathic Connection",
+			"it_name": "Connessione Empatica"
+		},
+		{
+			"name": "Yoichi Asakawa",
+			"perk_name": "Boon: Dark Theory",
+			"it_name": "Manna: Teoria Oscura"
+		},
+		{
+			"name": "La Draga",
+			"perk_name": "Dissolution",
+			"it_name": "Dissoluzione"
+		},
+		{
+			"name": "La Draga",
+			"perk_name": "Darkness Revealed",
+			"it_name": "Oscurità Rivelata"
+		},
+		{
+			"name": "La Draga",
+			"perk_name": "Septic Touch",
+			"it_name": "Tocco Settico"
+		},
+		{
+			"name": "Haddie Kaur",
+			"perk_name": "Inner Focus",
+			"it_name": "Concentrazione Interiore"
+		},
+		{
+			"name": "Haddie Kaur",
+			"perk_name": "Residual Manifest",
+			"it_name": "Manifesto Residuo"
+		},
+		{
+			"name": "Haddie Kaur",
+			"perk_name": "Overzealous",
+			"it_name": "Zelo Eccessivo"
+		},
+		{
+			"name": "Il Mastermind",
+			"perk_name": "Superior Anatomy",
+			"it_name": "Anatomia Superiore"
+		},
+		{
+			"name": "Il Mastermind",
+			"perk_name": "Awakened Awareness",
+			"it_name": "Percezione Risvegliata"
+		},
+		{
+			"name": "Il Mastermind",
+			"perk_name": "Terminus",
+			"it_name": "Capolinea"
+		},
+		{
+			"name": "Ada Wong",
+			"perk_name": "Wiretap",
+			"it_name": "Microspia"
+		},
+		{
+			"name": "Ada Wong",
+			"perk_name": "Reactive Healing",
+			"it_name": "Cura Reattiva"
+		},
+		{
+			"name": "Ada Wong",
+			"perk_name": "Low Profile",
+			"it_name": "Profilo Basso"
+		},
+		{
+			"name": "Rebecca Chambers",
+			"perk_name": "Better than New",
+			"it_name": "Rigenerazione Totale"
+		},
+		{
+			"name": "Rebecca Chambers",
+			"perk_name": "Reassurance",
+			"it_name": "Rassicurazione"
+		},
+		{
+			"name": "Rebecca Chambers",
+			"perk_name": "Hyperfocus",
+			"it_name": "Iperconcentrazione"
+		},
+		{
+			"name": "Il Cavaliere",
+			"perk_name": "Nowhere to Hide",
+			"it_name": "Impossibile Nascondersi"
+		},
+		{
+			"name": "Il Cavaliere",
+			"perk_name": "Hex: Face the Darkness",
+			"it_name": "Maledizione: Affronta l'Oscurità"
+		},
+		{
+			"name": "Il Cavaliere",
+			"perk_name": "Hubris",
+			"it_name": "Boria"
+		},
+		{
+			"name": "Vittorio Toscano",
+			"perk_name": "Potential Energy",
+			"it_name": "Energia Potenziale"
+		},
+		{
+			"name": "Vittorio Toscano",
+			"perk_name": "Fogwise",
+			"it_name": "Strade Nebbiose"
+		},
+		{
+			"name": "Vittorio Toscano",
+			"perk_name": "Quick Gambit",
+			"it_name": "Lampo di Genio"
+		}
+	]
+}
